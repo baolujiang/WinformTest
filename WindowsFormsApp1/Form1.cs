@@ -19,11 +19,7 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            var totalCount = 100000;
-
-            var countZero = 0;
-            var countOne = 0;
-            var replacedRedCount = 0;
+            var totalCount = 50000;
 
             var matchingCount = 0;
 
